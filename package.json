@@ -23,7 +23,7 @@
     "node-sass": "^4.12.0",
     "nuxt": "^2.4.0",
     "sass-loader": "^7.1.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^0.0.1",
