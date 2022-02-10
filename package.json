@@ -20,7 +20,7 @@
     "express": "^4.16.4",
     "helmet": "^3.18.0",
     "morgan": "^1.9.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "nuxt": "^2.4.0",
     "sass-loader": "^7.1.0",
     "socket.io": "^2.2.0"
